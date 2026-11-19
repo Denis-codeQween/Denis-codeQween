@@ -32,4 +32,4 @@ I build high-throughput **Web Scraping**, **ETL Pipelines**, **Data Analytics**,
 ---
 
 ### Let's Work Together
-Available for freelance contracts in **Web Scraping, Custom ETL Pipelines, Data Cleaning/Analytics, and Python Automation** via [Upwork](https://www.upwork.com/).
+Available for freelance contracts in **Web Scraping, Custom ETL Pipelines, Data Cleaning/Analytics, and Python Automation** via [Upwork](https://www.upwork.com/freelancers/~016d90efe332ebf89d).
